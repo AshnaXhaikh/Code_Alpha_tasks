@@ -1,1 +1,1 @@
-# Code_Alpha_tasks
+This repository includes DATA SCIENCE projects
