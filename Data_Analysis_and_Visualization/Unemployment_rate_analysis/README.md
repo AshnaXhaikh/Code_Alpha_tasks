@@ -18,3 +18,12 @@ The project showcases:
 - 📊 Trend analysis across geographical divisions and time periods
 
 ---
+
+## ✅ What I Learned
+
+- Handling missing or inconsistent data
+- Grouping and aggregating datasets by time and categories
+- Creating clean and meaningful plots for interpretation
+- Telling a story with data using visual analysis
+
+---
